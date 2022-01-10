@@ -5,6 +5,7 @@ This is a mockup design of a marina business Landing Page.
 ## Inspiration
 
 The layout design is heavily inspired by the following image, with the author's own code implementation:
+
 ![The Odin Project layout](./images/inspo.jpg "The Odin Project layout")
 
 ## Motivation
