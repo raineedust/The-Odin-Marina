@@ -20,6 +20,7 @@ header {
   font-size: 48px;
   flex-shrink: 0;
   width: 650px;
+  padding-left: 30px;
 }
 
 .left-links img {
@@ -30,7 +31,7 @@ header {
   margin-left: auto;
   display: flex;
   align-items: center;
-  padding-right: 16px;
+  padding-right: 48px;
   opacity: 0.8;
 }
 
@@ -64,7 +65,6 @@ h1 {
 
 .hero-img {
   border-radius: 8px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .hero button {
@@ -173,6 +173,28 @@ h2 {
   padding: 8px;
   color: #f9faf8;
   display: flex;
+}
+
+/* NOTICES */
+
+.credits {
+  background-color: #1f2937;
+  color: #f9faf8;
+  text-align: center;
+  padding: 16px;
+}
+
+.copyright {
+  opacity: 0.8;
+  margin: 16px;
+}
+
+.notices {
+  opacity: 0.7;
+}
+
+.flat {
+  margin-bottom: 4px;
 }
 
 /* MISC GLOBAL */
