@@ -41,12 +41,12 @@ header {
   background-color: #1f2937;
   align-items: center;
   color: #f9faf8;
-  flex-shrink: 0;
+  justify-content: center;
 }
 
 .hero-main {
   flex-basis: 400px;
-  padding: 0px 0 70px 100px;
+  padding: 80px 80px 120px 80px;
 }
 
 h1 {
@@ -63,9 +63,11 @@ h1 {
 }
 
 .hero-img {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-button {
+.hero button {
   background-color: #3882f6;
   color: #f9faf8;
   border-radius: 8px;
@@ -77,13 +79,14 @@ button {
 /* GALLERY */
 
 .content {
-  margin-bottom: 200px;
+  margin-bottom: 110px;
 }
 
 h2 {
   font-weight: bolder;
   text-align: center;
-  padding: 0px 0 20px 0;
+  padding: 30px 30px;
+  font-size: 36px;
 }
 
 .con-gallery {
@@ -112,21 +115,65 @@ h2 {
   background-color: #e5e7eb;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding-top: 80px;
+  padding: 80px 250px;
 }
 
 .quote p {
   font-size: 36px;
   font-style: italic;
   color: 1f2937;
+  opacity: 0.7;
+  display: flex;
+  flex-shrink: 0;
+
+  align-items: center;
+  justify-content: center;
 }
 
 .quote p2 {
+  text-align: right;
+  padding-bottom: 40px;
+  font-weight: bold;
+  font-size: 22px;
 }
 
-/* NOTIFICATION */
+/* NEWSLETTER */
+
+.newsletter {
+  background-color: #3882f6;
+  border-radius: 10px;
+  margin: 100px 210px;
+  padding: 40px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nl-items {
+  padding-right: 160px;
+}
+
+.newsletter h3 {
+  color: #f9faf8;
+  font-size: 26px;
+  margin: 4px 0;
+}
+
+.newsletter p3 {
+  color: #f9faf8;
+  font-size: 18px;
+  opacity: 0.9;
+}
+
+.newsletter button {
+  background-color: #3882f6;
+  border: 2px solid white;
+  border-radius: 8px;
+  font-size: 18px;
+  padding: 8px;
+  color: #f9faf8;
+  display: flex;
+}
 
 /* MISC GLOBAL */
 
@@ -150,4 +197,14 @@ a {
 @font-face {
   font-family: Norse;
   src: url(./assets/Norse.otf);
+}
+
+button:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+img:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.3s ease-in-out;
 }
