@@ -2,6 +2,10 @@
 
 This is a mockup design of a marina business Landing Page.
 
+## Try it Out!
+
+This project is hosted on GitHub Pages. Feel free to [try it out](https://raineedust.github.io/odin-landing-page/)!
+
 ## Inspiration
 
 The layout design is heavily inspired by the following image, with the author's own code implementation:
@@ -11,10 +15,6 @@ The layout design is heavily inspired by the following image, with the author's 
 ## Motivation
 
 This project is designed as part of The Odin Project's wonderful Web Development curriculum.
-
-## Try it Out!
-
-This project is hosted on GitHub Pages. Feel free to [try it out](https://raineedust.github.io/odin-landing-page/)!
 
 ## Tech Stack:
 
