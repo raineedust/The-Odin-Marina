@@ -1,6 +1,11 @@
 # Odin Landing Page
 
-This repository offers the source code of a bare-bones Landing Page.
+This is a mockup design of a marina business Landing Page.
+
+## Inspiration
+
+The layout design is heavily inspired by the following image, with the author's own code implementation:
+![The Odin Project layout](./images/inspo.jpg "The Odin Project layout")
 
 ## Motivation
 
