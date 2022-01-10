@@ -1,0 +1,153 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Roboto", sans-serif;
+}
+
+/* NAVBAR SECTION */
+
+header {
+  background-color: #1f2937;
+  padding: 16px;
+  display: flex;
+}
+
+.left-links {
+  display: flex;
+  gap: 24px;
+  color: azure;
+  font-family: Norse;
+  font-size: 48px;
+  flex-shrink: 0;
+  width: 650px;
+}
+
+.left-links img {
+  width: 8%;
+}
+
+.right-links {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  padding-right: 16px;
+  opacity: 0.8;
+}
+
+/* HERO SECTION */
+
+.hero {
+  display: flex;
+  background-color: #1f2937;
+  align-items: center;
+  color: #f9faf8;
+  flex-shrink: 0;
+}
+
+.hero-main {
+  flex-basis: 400px;
+  padding: 0px 0 70px 100px;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 48px;
+  margin-bottom: 0%;
+}
+
+.hero p {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin-top: 8px;
+  opacity: 0.8;
+}
+
+.hero-img {
+}
+
+button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  border-radius: 8px;
+  width: 110px;
+  border: none;
+  padding: 10px;
+}
+
+/* GALLERY */
+
+.content {
+  margin-bottom: 200px;
+}
+
+h2 {
+  font-weight: bolder;
+  text-align: center;
+  padding: 0px 0 20px 0;
+}
+
+.con-gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 56px;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.con-gallery img {
+  object-fit: cover;
+  width: 200px;
+  border: 4px solid #3882f6;
+  border-radius: 15px;
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-bottom: 16px;
+}
+
+/* QUOTE SECTION */
+
+.quote {
+  background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px;
+}
+
+.quote p {
+  font-size: 36px;
+  font-style: italic;
+  color: 1f2937;
+}
+
+.quote p2 {
+}
+
+/* NOTIFICATION */
+
+/* MISC GLOBAL */
+
+ul {
+  list-style-type: none;
+  margin: 0%;
+  padding: 0%;
+  /* boilerplate to remove predefined HTML styles */
+  display: flex;
+  gap: 16px;
+}
+
+a {
+  text-decoration: none;
+  /* boilerplate to remove predefined HTML styles */
+  color: #e5e7eb;
+}
+
+/* I imported another font on HTML head */
+
+@font-face {
+  font-family: Norse;
+  src: url(./assets/Norse.otf);
+}
