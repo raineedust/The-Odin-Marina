@@ -1,6 +1,6 @@
 # Odin Landing Page
 
-This is a mockup design of a marina business Landing Page.
+This is a mockup design of a Landing Page themed after a marina business, which is titled as **The Odin Marina**.
 
 ## Try it Out!
 
@@ -8,7 +8,7 @@ This project is hosted on GitHub Pages. Feel free to [try it out](https://rainee
 
 ## Inspiration
 
-The layout design is heavily inspired by the following image, with the author's own code implementation:
+The design is heavily inspired by the following specs, with some minor additions:
 
 ![The Odin Project layout](./images/inspo.jpg "The Odin Project layout")
 
