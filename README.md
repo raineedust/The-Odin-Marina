@@ -1,6 +1,6 @@
 # Odin Landing Page
 
-This is a mockup design of a marina business Landing Page, which is titled as **The Odin Marina**.
+This is a mockup design of a marina business Landing Page, titled as **The Odin Marina**.
 
 ## Try it Out!
 
