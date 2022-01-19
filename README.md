@@ -24,3 +24,5 @@ This project is designed as part of The Odin Project's wonderful Web Development
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="25"/> CSS
 
 Built with :heart: to The Odin Project ~
+
+**Disclaimer**: While the author's project was inspired by a curriculum, only webpage specs were referenced and no hand-holding instructions were provided for the implementation.
