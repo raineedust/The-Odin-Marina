@@ -2,7 +2,7 @@
 
 This is a mockup design of a marina business Landing Page, titled as **The Odin Marina**.
 
-For the best viewing experience, it is recommended to display the webpage on a desktop screen.
+For the best viewing experience, it is **recommended** to display the webpage on a desktop screen.
 
 ## Try it Out!
 
