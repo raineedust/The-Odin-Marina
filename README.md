@@ -6,7 +6,7 @@ For the best viewing experience, it is **recommended** to display the webpage on
 
 ## Try it Out!
 
-This project is hosted on GitHub Pages. Feel free to [try it out](https://raineedust.github.io/odin-landing-page/)!
+This project is hosted on GitHub Pages. Feel free to [try it out](https://raineedust.github.io/The-Odin-Marina/)!
 
 ## Inspiration
 
