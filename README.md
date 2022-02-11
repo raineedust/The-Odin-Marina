@@ -16,7 +16,7 @@ The design is heavily inspired by the following specs, with some minor additions
 
 ## Motivation and Goals
 
-This project is designed as part of The Odin Project's wonderful Web Development curriculum.
+This project is designed as part of **The Odin Project's** wonderful Web Development curriculum.
 
 - [x] Use Flexbox
 - [x] Use buttons, hover effects
@@ -29,4 +29,4 @@ This project is designed as part of The Odin Project's wonderful Web Development
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width= 5% /> HTML5
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= 5% /> CSS
 
-Built with :heart: to The Odin Project ~
+Built with :heart: to **The Odin Project** ~
