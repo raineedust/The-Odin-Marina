@@ -1,6 +1,6 @@
 # The Odin Marina
 
-This is a mockup design of a marina business Landing Page, titled as **The Odin Marina**.
+**The Odin Marina** is a mockup design of a marina business Landing Page.
 
 For the best viewing experience, it is **recommended** to display the webpage on a desktop screen.
 
@@ -19,7 +19,7 @@ The design is heavily inspired by the following specs, with some minor additions
 This project is designed as part of The Odin Project's wonderful Web Development curriculum.
 
 - [x] Use Flexbox
-- [x] Use buttons
+- [x] Use buttons, hover effects
 - [x] Develop basic design intuition
 - [x] Use custom fonts and images
 - [x] Provide assets credits
