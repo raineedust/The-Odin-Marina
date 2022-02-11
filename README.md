@@ -14,9 +14,15 @@ The design is heavily inspired by the following specs, with some minor additions
 
 ![The Odin Project layout](./images/inspo.jpg "The Odin Project layout")
 
-## Motivation
+## Motivation and Goals
 
 This project is designed as part of The Odin Project's wonderful Web Development curriculum.
+
+- [x] Use Flexbox
+- [x] Use buttons
+- [x] Develop basic design intuition
+- [x] Use custom fonts and images
+- [x] Provide assets credits
 
 ## Tech Stack:
 
