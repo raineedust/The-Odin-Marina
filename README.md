@@ -24,9 +24,4 @@ This project is designed as part of **The Odin Project's** wonderful Web Develop
 - [x] Use custom fonts and images
 - [x] Provide assets credits
 
-## Tech Stack:
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width= 5% /> HTML5
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= 5% /> CSS
-
 Built with :heart: to **The Odin Project** ~
