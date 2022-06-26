@@ -1,6 +1,6 @@
 # The Odin Marina
 
-**The Odin Marina** is a mockup design of a marina business Landing Page.
+This is a simple Landing Page for a fictitious business, **The Odin Marina**.
 
 For the best viewing experience, it is **recommended** to display the webpage on a desktop screen.
 
@@ -23,5 +23,9 @@ This project is designed as part of **The Odin Project's** wonderful Web Develop
 - [x] Develop basic design intuition
 - [x] Use custom fonts and images
 - [x] Provide assets credits
+
+## Limitations
+
+- Not fully optimized for mobile interfaces.
 
 Built with :heart: to **The Odin Project** ~
