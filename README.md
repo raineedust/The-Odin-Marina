@@ -2,7 +2,7 @@
 
 This is a simple Landing Page for a fictitious business, **The Odin Marina**.
 
-For the best viewing experience, it is **recommended** to display the webpage on a desktop screen.
+![](./images/chrome_yg7FK.png) 
 
 ## Live Preview
 
